@@ -1,6 +1,7 @@
 {
   "author": "Luca <lucamattosmoller@gmail.com>",
   "name": "pandoodle-rust-wasm",
+  "homepage": ".",
   "version": "1.0.0",
   "scripts": {
     "build": "rimraf dist pkg && webpack",
